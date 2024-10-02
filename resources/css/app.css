@@ -1,0 +1,71 @@
+.container {
+
+    width:70%;
+    height:80%;
+    margin: 25px auto auto auto;
+
+
+}
+
+.wrap-grid {
+    display: grid;
+    gap: 2px;
+    grid-template-columns: 20% 75%;
+}
+
+.content{
+    padding:20px;
+
+}
+
+h2 {
+    margin:10px auto 10px 0px;
+
+}
+h3 {
+    margin:10px auto 10px 0px;
+    font-size:18px;
+}
+
+
+.main-text {
+    margin-top:20px;
+    font-size:18px;
+    line-height:25px;
+
+}
+
+.menu-link {
+
+
+    padding:8px 25px 4px 25px;
+    margin-right: 0px;
+    margin-bottom:6px;
+    font-size:20px;
+
+}
+
+.select-version {
+
+    font-size:20px;
+    margin: auto;
+    display:block;
+    margin-right: 80px;
+
+}
+
+.button-version {
+
+    padding:8px 20px 8px 20px;
+    font-size:16px;
+    margin-left:0px;
+    margin-bottom:30px;
+    margin-top:10px;
+
+    color:white;
+    border-radius:50px;
+    border:0px solid grey;
+    height:50px;
+    cursor:pointer;
+
+}

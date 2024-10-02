@@ -1,0 +1,32 @@
+
+body {
+    font-family: 'Commissioner', sans-serif;
+    font-weight: 400;
+    margin:0px;
+    padding:0px;
+    background-color: #f2f2f2;
+}
+
+.theme-bg{
+    background-color:#7c3aed;
+}
+
+h3, .theme-text {
+
+    color:#7c3aed;
+
+}
+
+.left-bar{
+    padding-top:18%;
+    border-right:1px solid #d7d7d7;
+}
+.button-version:hover {
+    background-color:#6d28d9;
+}
+
+
+
+
+
+
